@@ -326,13 +326,13 @@ export default function Home() {
       {/* Hero */}
       <section
         id="hero"
-        className="relative min-h-screen overflow-hidden bg-[#101416] pt-24 sm:pt-28 lg:pt-32"
+        className="relative min-h-[80vh] overflow-hidden bg-[#101416] flex items-center"
       >
         <div className="pointer-events-none absolute inset-0 opacity-60 sm:opacity-80">
           <div className="absolute -top-1/3 left-1/4 h-96 w-96 rounded-full bg-[#0cf574]/40 blur-[140px]" />
           <div className="absolute -bottom-1/2 right-1/4 h-[420px] w-[420px] rounded-full bg-[#12a86f]/30 blur-[160px]" />
         </div>
-        <div className="relative mx-auto flex w-full max-w-6xl flex-col items-center gap-12 px-4 pb-24 pt-24 sm:px-8 lg:flex-row">
+        <div className="relative mx-auto flex w-full max-w-6xl flex-col items-center gap-12 px-4 py-12 sm:px-8 lg:flex-row lg:items-center">
           <div className="flex-1 space-y-5 text-center lg:text-left">
             <p className="text-lg font-semibold text-gray-300">Hello, it&apos;s me</p>
             <h1 className="text-4xl font-bold text-white sm:text-5xl">
