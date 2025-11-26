@@ -326,7 +326,7 @@ export default function Home() {
       {/* Hero */}
       <section
         id="hero"
-        className="relative min-h-[80vh] overflow-hidden bg-[#101416] flex items-center"
+       className="relative min-h-[80vh] overflow-hidden bg-[#101416] flex items-center"
       >
         <div className="pointer-events-none absolute inset-0 opacity-60 sm:opacity-80">
           <div className="absolute -top-1/3 left-1/4 h-96 w-96 rounded-full bg-[#0cf574]/40 blur-[140px]" />
@@ -901,7 +901,7 @@ export default function Home() {
       <footer id="footer" className="bg-[#0b0f13]">
         <div className="mx-auto grid w-full max-w-6xl gap-10 px-4 py-16 text-white text-center sm:px-8 md:text-left lg:grid-cols-3">
           <div>
-            <h4 className="text-3xl font-semibold">
+            <h4 className={`${brandFont.className} text-3xl font-semibold`}>
               <span className="text-[#05D105]">H</span>as
               <span className="text-[#05D105]">A</span>n
             </h4>
