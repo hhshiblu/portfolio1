@@ -27,7 +27,7 @@ export default function HeroSection() {
             {/* Greeting Badge */}
             <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-white/60 border border-indigo-100 shadow-sm text-indigo-700 font-medium text-xs sm:text-sm mb-8 backdrop-blur-md">
               <span className="text-base animate-bounce">👋</span>
-              <span>Hello, I'm Md Hasanul Haque Shiblu</span>
+              <span>Hello, I&apos;m Md Hasanul Haque Shiblu</span>
             </div>
 
             {/* Headline */}

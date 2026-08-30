@@ -57,7 +57,7 @@ export default function Navbar() {
             href="#contact"
             className="px-6 py-2 rounded-xl bg-indigo-500 hover:bg-indigo-600 text-white font-medium shadow-[0_4px_14px_0_rgba(99,102,241,0.39)] hover:shadow-[0_6px_20px_rgba(99,102,241,0.23)] transition-all"
           >
-            Let's Talk
+            Let&apos;s Talk
           </a>
         </div>
 
@@ -93,7 +93,7 @@ export default function Navbar() {
             onClick={() => setMobileMenuOpen(false)}
             className="mt-4 px-8 py-3 rounded-xl bg-indigo-500 text-white font-semibold w-[90%] text-center shadow-md active:scale-95 transition-transform"
           >
-            Let's Talk
+            Let&apos;s Talk
           </a>
         </div>
       </div>

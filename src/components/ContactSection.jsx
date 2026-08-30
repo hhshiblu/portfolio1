@@ -34,7 +34,7 @@ export default function ContactSection() {
             >
               {/* Label */}
               <span className="inline-block text-xs font-extrabold uppercase tracking-widest text-indigo-600 bg-indigo-50/80 px-4 py-2 rounded-full border border-indigo-100 mb-6 backdrop-blur-sm shadow-sm">
-                Let's Connect
+                Let&apos;s Connect
               </span>
 
               {/* Headline */}
@@ -45,13 +45,13 @@ export default function ContactSection() {
               
               {/* Highlighted Statement */}
               <div className="text-3xl sm:text-4xl md:text-5xl font-extrabold mb-8 leading-[1.1] tracking-tight text-transparent bg-clip-text bg-linear-to-r from-violet-600 via-blue-600 to-cyan-500">
-                Let's build something <br className="hidden sm:inline" />
+                Let&apos;s build something <br className="hidden sm:inline" />
                 extraordinary.
               </div>
 
               {/* Description */}
               <p className="text-slate-600 text-base sm:text-lg max-w-lg mb-12 leading-relaxed font-light">
-                Whether you need scalable microservices, a high-performance web platform, or AI/ML/RAG integration, let's turn your idea into a real product.
+                Whether you need scalable microservices, a high-performance web platform, or AI/ML/RAG integration, let&apos;s turn your idea into a real product.
               </p>
 
               {/* CTAs */}
@@ -124,7 +124,7 @@ export default function ContactSection() {
                 </div>
                 
                 <h3 className="text-xl sm:text-2xl font-black text-slate-800 text-center leading-tight">
-                  Let's work<br />
+                  Let&apos;s work<br />
                   <span className="text-transparent bg-clip-text bg-linear-to-r from-indigo-600 to-cyan-500">together.</span>
                 </h3>
               </div>
@@ -142,7 +142,7 @@ export default function ContactSection() {
             {/* Section 1 */}
             <div>
               <h4 className="text-sm font-extrabold text-slate-900 mb-5 uppercase tracking-widest flex items-center gap-2">
-                <span className="w-2 h-2 rounded-full bg-indigo-500" /> I'm open for
+                <span className="w-2 h-2 rounded-full bg-indigo-500" /> I&apos;m open for
               </h4>
               <ul className="space-y-3 text-slate-600 font-medium text-sm sm:text-base">
                 <li>• Freelance Projects</li>
@@ -169,10 +169,10 @@ export default function ContactSection() {
             {/* Section 3 */}
             <div className="sm:col-span-2 lg:col-span-1">
               <h4 className="text-sm font-extrabold text-slate-900 mb-5 uppercase tracking-widest flex items-center gap-2">
-                <span className="w-2 h-2 rounded-full bg-cyan-500" /> Let's build the future
+                <span className="w-2 h-2 rounded-full bg-cyan-500" /> Let&apos;s build the future
               </h4>
               <p className="text-slate-600 font-medium text-sm sm:text-base leading-relaxed mb-6">
-                Great ideas deserve the right technology. Let's turn your vision into a powerful digital product.
+                Great ideas deserve the right technology. Let&apos;s turn your vision into a powerful digital product.
               </p>
               {/* Handwritten Signature styling using a serif italic font to simulate signature */}
               <div className="text-4xl text-indigo-900/60 font-serif italic tracking-wide">

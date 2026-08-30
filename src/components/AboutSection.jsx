@@ -56,7 +56,7 @@ export default function AboutSection() {
                     <span className="text-xs font-bold uppercase tracking-wider text-indigo-300">Data & Scalability</span>
                   </div>
                   <h3 className="text-xl font-bold text-white leading-snug">
-                    "Turning complex datasets and high-traffic bottlenecks into seamless digital experiences."
+                    &quot;Turning complex datasets and high-traffic bottlenecks into seamless digital experiences.&quot;
                   </h3>
                 </div>
               </div>
